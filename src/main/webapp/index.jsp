@@ -30,9 +30,9 @@
   <!-- custom css -->
   <link rel="stylesheet" href="resources/custom.css">
 
-  <meta name="author" content="Topendra Kumar" />
-  <meta name="description" content="This is a website for Car Rental." />
-  <meta name="keywords" content="" />
+  <meta name="author" content="Pushpendra Pratap Singh" />
+  <meta name="description" content="This is a Responsive Website for Car Rental." />
+  <meta name="keywords" content="Car Rental, Responsive Website" />
 </head>
 
 <body>
@@ -182,7 +182,7 @@
   </section>
   <section class="container-fluid">
     <iframe
-      src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3507.1933115583884!2d77.51309501414025!3d28.473724398003522!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x390cea7e051fd949%3A0xefccd5003c9032b6!2sINCAPP!5e0!3m2!1sen!2sin!4v1673682797644!5m2!1sen!2sin"
+      src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d28055.041810587692!2d77.46642547910156!3d28.4831535!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x390ceb93ab19a171%3A0xc2ff4c01b95731b4!2sCar%20Rental%20in%20Greater%20Noida!5e0!3m2!1sen!2sin!4v1737114212175!5m2!1sen!2sin"
       width="100%" height="300" style="border:0;" allowfullscreen="" loading="lazy"
       referrerpolicy="no-referrer-when-downgrade"></iframe>
   </section>
@@ -195,7 +195,7 @@
     <p>&copy Rights Reserved</p>
     <p>
       <a href="https://www.facebook.com"><i class="fa-brands fa-facebook"></i></a>
-      <a href="https://www.instagram.com/topendralodhi"><i class="fa-brands fa-instagram"></i></a>
+      <a href="https://www.instagram.com"><i class="fa-brands fa-instagram"></i></a>
       
     </p>
   </footer>

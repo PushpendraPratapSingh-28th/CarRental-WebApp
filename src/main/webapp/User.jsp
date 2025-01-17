@@ -34,9 +34,9 @@
 <!-- custom css -->
 <link rel="stylesheet" href="resources/custom.css">
 
-<meta name="author" content="" />
-<meta name="description" content="This is a website for Car Rental." />
-<meta name="keywords" content="" />
+<meta name="author" content="Pushpendra Pratap Singh" />
+<meta name="description" content="This is a Responsive Website for Car Rental." />
+<meta name="keywords" content="Car Rental, Responsive Website" />
 </head>
 
 <body>
